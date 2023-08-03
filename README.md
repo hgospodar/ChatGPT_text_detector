@@ -1,0 +1,2 @@
+# ChatGPT_text_detector
+此仓库是2023年8月3日，datawhale举办的AI夏令营，题目是ChatGPT文本检测器
